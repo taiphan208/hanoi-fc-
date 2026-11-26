@@ -35,9 +35,9 @@ Các breakpoint CSS chính: 960px, 720px và 500px. Có thể kiểm tra thêm t
 4. Lưu cấu hình và chờ GitHub Pages triển khai.
 5. Mở URL Pages để kiểm tra trang chủ, các trang con và stylesheet.
 
-Repository: https://github.com/taiphan208/B-i-Ki-m-Tra-A3-cu-i-m-
+Repository: https://taiphan208.github.com/hanoi-fc-/
 
-URL GitHub Pages do sinh viên cung cấp: https://github.com/taiphan208/hanoi-fc-.git
+URL GitHub Pages do sinh viên cung cấp: https://taiphan208.github.io/hanoi-fc-/
 
 ## Tài liệu
 
