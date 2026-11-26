@@ -37,7 +37,7 @@ Các breakpoint CSS chính: 960px, 720px và 500px. Có thể kiểm tra thêm t
 
 Repository: https://github.com/taiphan208/B-i-Ki-m-Tra-A3-cu-i-m-
 
-URL GitHub Pages do sinh viên cung cấp: https://taiphan208.github.io/Bi-Ki-m-Tra-A3-cu-imn/
+URL GitHub Pages do sinh viên cung cấp: https://github.com/taiphan208/hanoi-fc-.git
 
 ## Tài liệu
 
